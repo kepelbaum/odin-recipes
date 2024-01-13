@@ -1,0 +1,15 @@
+* {
+    background-color: orange;
+}
+
+p {
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+}
+
+a {
+    font-size: 30px;
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+    margin: auto;
+}
