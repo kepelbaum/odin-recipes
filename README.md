@@ -1,1 +1,1 @@
-# odin-recipes
+A simple webpage listing off three chicken recipes that link to their individual recipe pages with a corresponding picture.
